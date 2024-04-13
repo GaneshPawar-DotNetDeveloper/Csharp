@@ -1,0 +1,148 @@
+o	OOP language
+o	Case sensitive
+o	Datatypes
+	Built in datatypes
+•	Integral types – byte, short, int, long
+•	Floating types – float, double, decimal
+•	Boolean type – bool
+•	String types – char, string
+•	Object – base type for all types in dot net
+o	GetType(), ToString(), Equals(), GetHashCode()
+	Custom types
+•	Class
+•	Interface
+•	Array
+•	Enum
+•	Delegate
+•	Struct
+o	Datatype Conversion
+	Implicit conversion
+•	Done by compiler
+	Explicit conversion
+•	Type casting
+•	Convert class methods
+•	Parse(), TryParse()
+•	Is, as keywords
+o	Operators
+	=, ==, !=, <, <=, >, >=
+	+=, -=, *=, /=
+	++, --
+	+, -, *, /, %
+	&&, ||
+o	Nullable type
+	Bridge between SQL types & C# types
+	Value types in C# are non nullable
+	? -> to make nullable
+	?? -> to convert nullable to non nullable type
+	?. -> null check
+o	Conditional statements
+	If
+	If else
+	If else if else
+	Ternary operator -> ?:
+	Switch statement
+o	Looping statements
+	While
+	Do while
+	For
+	Foreach
+o	Methods
+	Void -> nothing, use when we don’t want to return any value from method
+	Types of method parameters
+•	Pass by value
+•	Ref keyword
+•	Out keyword
+•	Params keyword
+	Optional parameters
+•	Default value
+•	OptionalAttribute
+•	Named parameter
+o	Class
+	Class fields
+method
+constuctor
+	Property
+•	Encapsulate and protect private fields
+•	Property we write like method and access like public fields
+•	Get , set access modifiers
+•	Auto implemented property
+	Indexer	
+•	To access class object indexed based just like an array
+•	We use this keyword to create indexer
+	Static class
+•	We cannot create object of static class
+•	It contains only static members
+	Abstract class
+•	Contains abstract and non abstract members (complete & in complete)
+•	Abstract class object creation not possible
+•	It is always used as base type
+	Sealed class
+•	It cannot inherited
+	Partial class
+•	We can split a class into multiple physical files
+	Inheritance
+•	Code reusability
+•	Extensibility
+•	Specialization
+•	Multiple class inheritance not possible in C#
+o	Diamond problem
+o	Multiple interface inheritance is possible
+	Access specifiers
+•	Private
+•	Protected
+•	Public
+•	Internal
+•	Protected internal
+-	Polymorphism
+o	Compile time
+	Method overloading
+	Operator overloading
+o	Runtime
+	Method overriding
+-	Virtual method Vs abstract method
+-	Abstraction, encapsulation
+-	Association
+o	Aggregation
+o	Composition
+-	Interface
+o	Implementing interface
+	Implement interface
+	Explicit implement interface
+-	Enum
+-	Delegate
+-	Generic delegate
+-	Anonymous method
+-	Lambda expression
+-	Reflection
+-	Lazy loading
+-	Collection classes
+-	Generic collection classes
+-	Tuple
+-	Yield
+-	Var, dynamic
+-	Const, readonly
+-	Extension method
+-	Exception handling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
