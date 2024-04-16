@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Abstraction And Encapsulation2\bin\Debug\Abstraction And Encapsulation2.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Abstraction And Encapsulation2\bin\Debug\Abstraction And Encapsulation2.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Abstraction And Encapsulation2\bin\Debug\Abstraction And Encapsulation2.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Abstraction And Encapsulation2\obj\Debug\Abstraction And Encapsulation2.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Abstraction And Encapsulation2\obj\Debug\Abstraction And Encapsulation2.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Abstraction And Encapsulation2\obj\Debug\Abstraction And Encapsulation2.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Abstraction And Encapsulation2\obj\Debug\Abstraction And Encapsulation2.pdb
