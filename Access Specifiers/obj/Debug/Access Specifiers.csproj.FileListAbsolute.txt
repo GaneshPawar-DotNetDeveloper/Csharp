@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Access Specifiers\bin\Debug\Access Specifiers.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Access Specifiers\bin\Debug\Access Specifiers.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Access Specifiers\bin\Debug\Access Specifiers.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Access Specifiers\obj\Debug\Access Specifiers.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Access Specifiers\obj\Debug\Access Specifiers.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Access Specifiers\obj\Debug\Access Specifiers.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Access Specifiers\obj\Debug\Access Specifiers.pdb
