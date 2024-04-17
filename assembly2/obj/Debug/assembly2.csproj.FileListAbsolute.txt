@@ -1,0 +1,10 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\assembly2\bin\Debug\assembly2.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\assembly2\bin\Debug\assembly2.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\assembly2\bin\Debug\assembly2.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\assembly2\bin\Debug\Assembly 1 (Class Liabrary).dll
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\assembly2\bin\Debug\Assembly 1 (Class Liabrary).pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\assembly2\obj\Debug\assembly2.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\assembly2\obj\Debug\assembly2.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\assembly2\obj\Debug\assembly2.csproj.CopyComplete
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\assembly2\obj\Debug\assembly2.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\assembly2\obj\Debug\assembly2.pdb
