@@ -1,0 +1,6 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Assembly 1 (Class Liabrary)\bin\Debug\Assembly 1 (Class Liabrary).dll
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Assembly 1 (Class Liabrary)\bin\Debug\Assembly 1 (Class Liabrary).pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Assembly 1 (Class Liabrary)\obj\Debug\Assembly 1 (Class Liabrary).csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Assembly 1 (Class Liabrary)\obj\Debug\Assembly 1 (Class Liabrary).csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Assembly 1 (Class Liabrary)\obj\Debug\Assembly 1 (Class Liabrary).dll
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Assembly 1 (Class Liabrary)\obj\Debug\Assembly 1 (Class Liabrary).pdb

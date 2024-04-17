@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Array\bin\Debug\Array.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Array\bin\Debug\Array.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Array\bin\Debug\Array.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Array\obj\Debug\Array.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Array\obj\Debug\Array.pdb
