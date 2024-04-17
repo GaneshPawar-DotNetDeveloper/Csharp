@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\BoxingUnboxing\bin\Debug\BoxingUnboxing.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\BoxingUnboxing\obj\Debug\BoxingUnboxing.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\BoxingUnboxing\obj\Debug\BoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\BoxingUnboxing\obj\Debug\BoxingUnboxing.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\BoxingUnboxing\obj\Debug\BoxingUnboxing.pdb
