@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Const&Read-OnlyKeyword\bin\Debug\Const&Read-OnlyKeyword.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Const&Read-OnlyKeyword\bin\Debug\Const&Read-OnlyKeyword.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Const&Read-OnlyKeyword\bin\Debug\Const&Read-OnlyKeyword.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Const&Read-OnlyKeyword\obj\Debug\Const&Read-OnlyKeyword.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Const&Read-OnlyKeyword\obj\Debug\Const&Read-OnlyKeyword.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Const&Read-OnlyKeyword\obj\Debug\Const&Read-OnlyKeyword.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Const&Read-OnlyKeyword\obj\Debug\Const&Read-OnlyKeyword.pdb

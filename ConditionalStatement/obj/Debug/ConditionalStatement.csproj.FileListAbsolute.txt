@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\ConditionalStatement\bin\Debug\ConditionalStatement.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\ConditionalStatement\bin\Debug\ConditionalStatement.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\ConditionalStatement\bin\Debug\ConditionalStatement.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\ConditionalStatement\obj\Debug\ConditionalStatement.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\ConditionalStatement\obj\Debug\ConditionalStatement.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\ConditionalStatement\obj\Debug\ConditionalStatement.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\ConditionalStatement\obj\Debug\ConditionalStatement.pdb
