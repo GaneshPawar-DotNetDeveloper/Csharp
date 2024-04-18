@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\class define\bin\Debug\class define.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\class define\bin\Debug\class define.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\class define\bin\Debug\class define.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\class define\obj\Debug\class define.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\class define\obj\Debug\class define.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\class define\obj\Debug\class define.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\class define\obj\Debug\class define.pdb
