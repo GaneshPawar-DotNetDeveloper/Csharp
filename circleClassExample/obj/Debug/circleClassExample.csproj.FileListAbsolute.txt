@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\circleClassExample\bin\Debug\circleClassExample.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\circleClassExample\bin\Debug\circleClassExample.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\circleClassExample\bin\Debug\circleClassExample.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\circleClassExample\obj\Debug\circleClassExample.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\circleClassExample\obj\Debug\circleClassExample.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\circleClassExample\obj\Debug\circleClassExample.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\circleClassExample\obj\Debug\circleClassExample.pdb

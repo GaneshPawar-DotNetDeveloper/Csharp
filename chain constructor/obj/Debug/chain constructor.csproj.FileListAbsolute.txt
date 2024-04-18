@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\chain constructor\bin\Debug\chain constructor.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\chain constructor\bin\Debug\chain constructor.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\chain constructor\bin\Debug\chain constructor.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\chain constructor\obj\Debug\chain constructor.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\chain constructor\obj\Debug\chain constructor.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\chain constructor\obj\Debug\chain constructor.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\chain constructor\obj\Debug\chain constructor.pdb
