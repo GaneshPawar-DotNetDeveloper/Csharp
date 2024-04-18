@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\TypesOfArray\bin\Debug\TypesOfArray.exe.config
+C:\c#b22\add project\basic\last revision\TypesOfArray\bin\Debug\TypesOfArray.exe
+C:\c#b22\add project\basic\last revision\TypesOfArray\bin\Debug\TypesOfArray.pdb
+C:\c#b22\add project\basic\last revision\TypesOfArray\obj\Debug\TypesOfArray.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\TypesOfArray\obj\Debug\TypesOfArray.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\TypesOfArray\obj\Debug\TypesOfArray.exe
+C:\c#b22\add project\basic\last revision\TypesOfArray\obj\Debug\TypesOfArray.pdb
