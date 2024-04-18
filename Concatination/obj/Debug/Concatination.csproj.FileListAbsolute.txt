@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Concatination\bin\Debug\Concatination.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Concatination\bin\Debug\Concatination.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Concatination\bin\Debug\Concatination.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Concatination\obj\Debug\Concatination.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Concatination\obj\Debug\Concatination.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Concatination\obj\Debug\Concatination.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Concatination\obj\Debug\Concatination.pdb
