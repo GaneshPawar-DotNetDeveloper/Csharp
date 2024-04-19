@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond Problem Solve  with Interface\bin\Debug\Diamond Problem Solve  with Interface.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond Problem Solve  with Interface\bin\Debug\Diamond Problem Solve  with Interface.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond Problem Solve  with Interface\bin\Debug\Diamond Problem Solve  with Interface.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond Problem Solve  with Interface\obj\Debug\Diamond Problem Solve  with Interface.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond Problem Solve  with Interface\obj\Debug\Diamond Problem Solve  with Interface.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond Problem Solve  with Interface\obj\Debug\Diamond Problem Solve  with Interface.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond Problem Solve  with Interface\obj\Debug\Diamond Problem Solve  with Interface.pdb
