@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond problem (Inheritance)\bin\Debug\Diamond problem (Inheritance).exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond problem (Inheritance)\bin\Debug\Diamond problem (Inheritance).exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond problem (Inheritance)\bin\Debug\Diamond problem (Inheritance).pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond problem (Inheritance)\obj\Debug\Diamond problem (Inheritance).csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond problem (Inheritance)\obj\Debug\Diamond problem (Inheritance).csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond problem (Inheritance)\obj\Debug\Diamond problem (Inheritance).exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Diamond problem (Inheritance)\obj\Debug\Diamond problem (Inheritance).pdb
