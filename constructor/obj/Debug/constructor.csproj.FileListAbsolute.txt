@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\constructor\bin\Debug\constructor.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\constructor\bin\Debug\constructor.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\constructor\bin\Debug\constructor.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\constructor\obj\Debug\constructor.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\constructor\obj\Debug\constructor.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\constructor\obj\Debug\constructor.pdb
