@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Dynamic Keyword\bin\Debug\Dynamic Keyword.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Dynamic Keyword\bin\Debug\Dynamic Keyword.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Dynamic Keyword\bin\Debug\Dynamic Keyword.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Dynamic Keyword\obj\Debug\Dynamic Keyword.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Dynamic Keyword\obj\Debug\Dynamic Keyword.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Dynamic Keyword\obj\Debug\Dynamic Keyword.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Dynamic Keyword\obj\Debug\Dynamic Keyword.pdb
