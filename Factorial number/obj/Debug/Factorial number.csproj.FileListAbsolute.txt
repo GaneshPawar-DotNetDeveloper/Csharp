@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Factorial number\bin\Debug\Factorial number.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Factorial number\bin\Debug\Factorial number.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Factorial number\bin\Debug\Factorial number.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Factorial number\obj\Debug\Factorial number.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Factorial number\obj\Debug\Factorial number.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Factorial number\obj\Debug\Factorial number.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Factorial number\obj\Debug\Factorial number.pdb
