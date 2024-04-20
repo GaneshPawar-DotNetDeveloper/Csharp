@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\FormSubmissionAppliction\bin\Debug\FormSubmissionAppliction.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\FormSubmissionAppliction\bin\Debug\FormSubmissionAppliction.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\FormSubmissionAppliction\bin\Debug\FormSubmissionAppliction.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\FormSubmissionAppliction\obj\Debug\FormSubmissionAppliction.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\FormSubmissionAppliction\obj\Debug\FormSubmissionAppliction.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\FormSubmissionAppliction\obj\Debug\FormSubmissionAppliction.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\FormSubmissionAppliction\obj\Debug\FormSubmissionAppliction.pdb
