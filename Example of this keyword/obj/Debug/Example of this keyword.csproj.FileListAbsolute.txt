@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example of this keyword\bin\Debug\Example of this keyword.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example of this keyword\bin\Debug\Example of this keyword.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example of this keyword\bin\Debug\Example of this keyword.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example of this keyword\obj\Debug\Example of this keyword.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example of this keyword\obj\Debug\Example of this keyword.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example of this keyword\obj\Debug\Example of this keyword.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example of this keyword\obj\Debug\Example of this keyword.pdb
