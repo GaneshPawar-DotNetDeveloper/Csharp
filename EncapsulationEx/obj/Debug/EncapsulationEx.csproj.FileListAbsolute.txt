@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\EncapsulationEx\bin\Debug\EncapsulationEx.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\EncapsulationEx\bin\Debug\EncapsulationEx.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\EncapsulationEx\bin\Debug\EncapsulationEx.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\EncapsulationEx\obj\Debug\EncapsulationEx.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\EncapsulationEx\obj\Debug\EncapsulationEx.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\EncapsulationEx\obj\Debug\EncapsulationEx.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\EncapsulationEx\obj\Debug\EncapsulationEx.pdb

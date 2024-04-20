@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example Of Inhritance\bin\Debug\Example Of Inhritance.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example Of Inhritance\bin\Debug\Example Of Inhritance.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example Of Inhritance\bin\Debug\Example Of Inhritance.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example Of Inhritance\obj\Debug\Example Of Inhritance.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example Of Inhritance\obj\Debug\Example Of Inhritance.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example Of Inhritance\obj\Debug\Example Of Inhritance.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Example Of Inhritance\obj\Debug\Example Of Inhritance.pdb

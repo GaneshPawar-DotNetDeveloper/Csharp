@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Equal equal to operator methodOverloading\bin\Debug\Equal equal to operator methodOverloading.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Equal equal to operator methodOverloading\bin\Debug\Equal equal to operator methodOverloading.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Equal equal to operator methodOverloading\bin\Debug\Equal equal to operator methodOverloading.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Equal equal to operator methodOverloading\obj\Debug\Equal equal to operator methodOverloading.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Equal equal to operator methodOverloading\obj\Debug\Equal equal to operator methodOverloading.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Equal equal to operator methodOverloading\obj\Debug\Equal equal to operator methodOverloading.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Equal equal to operator methodOverloading\obj\Debug\Equal equal to operator methodOverloading.pdb
