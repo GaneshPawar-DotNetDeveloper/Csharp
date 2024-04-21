@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Happy Birthday Beep\bin\Debug\Happy Birthday Beep.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Happy Birthday Beep\bin\Debug\Happy Birthday Beep.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Happy Birthday Beep\bin\Debug\Happy Birthday Beep.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Happy Birthday Beep\obj\Debug\Happy Birthday Beep.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Happy Birthday Beep\obj\Debug\Happy Birthday Beep.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Happy Birthday Beep\obj\Debug\Happy Birthday Beep.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Happy Birthday Beep\obj\Debug\Happy Birthday Beep.pdb
