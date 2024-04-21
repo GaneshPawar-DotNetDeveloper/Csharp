@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Indexer\bin\Debug\Indexer.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Indexer\bin\Debug\Indexer.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Indexer\bin\Debug\Indexer.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Indexer\obj\Debug\Indexer.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Indexer\obj\Debug\Indexer.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Indexer\obj\Debug\Indexer.pdb

@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\if else exmples\bin\Debug\if else exmples.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\if else exmples\bin\Debug\if else exmples.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\if else exmples\bin\Debug\if else exmples.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\if else exmples\obj\Debug\if else exmples.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\if else exmples\obj\Debug\if else exmples.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\if else exmples\obj\Debug\if else exmples.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\if else exmples\obj\Debug\if else exmples.pdb

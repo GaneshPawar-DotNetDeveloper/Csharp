@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\IndexerEx\bin\Debug\IndexerEx.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\IndexerEx\bin\Debug\IndexerEx.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\IndexerEx\bin\Debug\IndexerEx.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\IndexerEx\obj\Debug\IndexerEx.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\IndexerEx\obj\Debug\IndexerEx.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\IndexerEx\obj\Debug\IndexerEx.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\IndexerEx\obj\Debug\IndexerEx.pdb
