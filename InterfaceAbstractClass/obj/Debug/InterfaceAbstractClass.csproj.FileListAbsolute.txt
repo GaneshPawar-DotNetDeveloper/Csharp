@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\InterfaceAbstractClass\bin\Debug\InterfaceAbstractClass.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\InterfaceAbstractClass\bin\Debug\InterfaceAbstractClass.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\InterfaceAbstractClass\bin\Debug\InterfaceAbstractClass.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\InterfaceAbstractClass\obj\Debug\InterfaceAbstractClass.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\InterfaceAbstractClass\obj\Debug\InterfaceAbstractClass.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\InterfaceAbstractClass\obj\Debug\InterfaceAbstractClass.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\InterfaceAbstractClass\obj\Debug\InterfaceAbstractClass.pdb
