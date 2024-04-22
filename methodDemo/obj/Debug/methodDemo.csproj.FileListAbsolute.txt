@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\methodDemo\bin\Debug\methodDemo.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\methodDemo\bin\Debug\methodDemo.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\methodDemo\bin\Debug\methodDemo.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\methodDemo\obj\Debug\methodDemo.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\methodDemo\obj\Debug\methodDemo.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\methodDemo\obj\Debug\methodDemo.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\methodDemo\obj\Debug\methodDemo.pdb
