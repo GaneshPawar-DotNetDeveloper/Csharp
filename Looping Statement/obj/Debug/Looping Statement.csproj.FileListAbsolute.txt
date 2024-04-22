@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Looping Statement\bin\Debug\Looping Statement.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Looping Statement\bin\Debug\Looping Statement.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Looping Statement\bin\Debug\Looping Statement.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Looping Statement\obj\Debug\Looping Statement.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Looping Statement\obj\Debug\Looping Statement.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Looping Statement\obj\Debug\Looping Statement.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Looping Statement\obj\Debug\Looping Statement.pdb
