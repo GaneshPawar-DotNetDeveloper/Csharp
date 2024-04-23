@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Polymorphism\bin\Debug\Polymorphism.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Polymorphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Polymorphism\obj\Debug\Polymorphism.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Polymorphism\obj\Debug\Polymorphism.pdb
