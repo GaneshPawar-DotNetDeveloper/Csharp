@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\NameSpace\bin\Debug\NameSpace.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\NameSpace\bin\Debug\NameSpace.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\NameSpace\bin\Debug\NameSpace.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\NameSpace\obj\Debug\NameSpace.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\NameSpace\obj\Debug\NameSpace.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\NameSpace\obj\Debug\NameSpace.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\NameSpace\obj\Debug\NameSpace.pdb
