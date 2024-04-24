@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Split - Comma Separated\bin\Debug\Split - Comma Separated.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Split - Comma Separated\bin\Debug\Split - Comma Separated.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Split - Comma Separated\bin\Debug\Split - Comma Separated.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Split - Comma Separated\obj\Debug\Split - Comma Separated.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Split - Comma Separated\obj\Debug\Split - Comma Separated.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Split - Comma Separated\obj\Debug\Split - Comma Separated.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Split - Comma Separated\obj\Debug\Split - Comma Separated.pdb
