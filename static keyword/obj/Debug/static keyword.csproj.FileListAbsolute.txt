@@ -1,0 +1,2 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\static keyword\obj\Debug\static keyword.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\static keyword\obj\Debug\static keyword.csproj.CoreCompileInputs.cache

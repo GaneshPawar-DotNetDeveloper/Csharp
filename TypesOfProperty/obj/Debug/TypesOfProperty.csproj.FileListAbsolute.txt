@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\TypesOfProperty\bin\Debug\TypesOfProperty.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\TypesOfProperty\bin\Debug\TypesOfProperty.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\TypesOfProperty\bin\Debug\TypesOfProperty.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\TypesOfProperty\obj\Debug\TypesOfProperty.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\TypesOfProperty\obj\Debug\TypesOfProperty.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\TypesOfProperty\obj\Debug\TypesOfProperty.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\TypesOfProperty\obj\Debug\TypesOfProperty.pdb
