@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Questions&&Answer\bin\Debug\Questions&&Answer.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Questions&&Answer\bin\Debug\Questions&&Answer.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Questions&&Answer\bin\Debug\Questions&&Answer.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Questions&&Answer\obj\Debug\Questions&&Answer.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Questions&&Answer\obj\Debug\Questions&&Answer.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Questions&&Answer\obj\Debug\Questions&&Answer.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Questions&&Answer\obj\Debug\Questions&&Answer.pdb
