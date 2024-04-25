@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\WithoutMainMethodCall\bin\Debug\WithoutMainMethodCall.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\WithoutMainMethodCall\bin\Debug\WithoutMainMethodCall.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\WithoutMainMethodCall\bin\Debug\WithoutMainMethodCall.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\WithoutMainMethodCall\obj\Debug\WithoutMainMethodCall.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\WithoutMainMethodCall\obj\Debug\WithoutMainMethodCall.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\WithoutMainMethodCall\obj\Debug\WithoutMainMethodCall.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\WithoutMainMethodCall\obj\Debug\WithoutMainMethodCall.pdb
