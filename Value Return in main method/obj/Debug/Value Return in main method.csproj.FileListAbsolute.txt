@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Value Return in main method\bin\Debug\Value Return in main method.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Value Return in main method\bin\Debug\Value Return in main method.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Value Return in main method\bin\Debug\Value Return in main method.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Value Return in main method\obj\Debug\Value Return in main method.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Value Return in main method\obj\Debug\Value Return in main method.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Value Return in main method\obj\Debug\Value Return in main method.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Value Return in main method\obj\Debug\Value Return in main method.pdb
