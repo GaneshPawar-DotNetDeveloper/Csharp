@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\c#b22\add project\basic\last revision\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\c#b22\add project\basic\last revision\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\c#b22\add project\basic\last revision\ConsoleApp1\obj\Debug\Enum.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\ConsoleApp1\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\c#b22\add project\basic\last revision\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
