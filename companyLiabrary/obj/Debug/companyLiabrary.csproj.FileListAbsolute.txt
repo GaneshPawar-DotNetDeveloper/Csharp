@@ -1,0 +1,6 @@
+C:\c#b22\add project\basic\last revision\companyLiabrary\obj\Debug\companyLiabrary.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\companyLiabrary\obj\Debug\companyLiabrary.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\companyLiabrary\bin\Debug\companyLiabrary.dll
+C:\c#b22\add project\basic\last revision\companyLiabrary\bin\Debug\companyLiabrary.pdb
+C:\c#b22\add project\basic\last revision\companyLiabrary\obj\Debug\companyLiabrary.dll
+C:\c#b22\add project\basic\last revision\companyLiabrary\obj\Debug\companyLiabrary.pdb

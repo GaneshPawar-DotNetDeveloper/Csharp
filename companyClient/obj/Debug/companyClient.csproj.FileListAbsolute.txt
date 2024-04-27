@@ -1,0 +1,10 @@
+C:\c#b22\add project\basic\last revision\companyClient\bin\Debug\companyClient.exe.config
+C:\c#b22\add project\basic\last revision\companyClient\bin\Debug\companyClient.exe
+C:\c#b22\add project\basic\last revision\companyClient\bin\Debug\companyClient.pdb
+C:\c#b22\add project\basic\last revision\companyClient\bin\Debug\companyLiabrary.dll
+C:\c#b22\add project\basic\last revision\companyClient\bin\Debug\companyLiabrary.pdb
+C:\c#b22\add project\basic\last revision\companyClient\obj\Debug\companyClient.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\companyClient\obj\Debug\companyClient.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\companyClient\obj\Debug\companyClient.csproj.CopyComplete
+C:\c#b22\add project\basic\last revision\companyClient\obj\Debug\companyClient.exe
+C:\c#b22\add project\basic\last revision\companyClient\obj\Debug\companyClient.pdb
