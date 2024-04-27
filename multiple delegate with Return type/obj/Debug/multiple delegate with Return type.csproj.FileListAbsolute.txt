@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\multiple delegate with Return type\obj\Debug\multiple delegate with Return type.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\multiple delegate with Return type\obj\Debug\multiple delegate with Return type.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\multiple delegate with Return type\bin\Debug\multiple delegate with Return type.exe.config
+C:\c#b22\add project\basic\last revision\multiple delegate with Return type\bin\Debug\multiple delegate with Return type.exe
+C:\c#b22\add project\basic\last revision\multiple delegate with Return type\bin\Debug\multiple delegate with Return type.pdb
+C:\c#b22\add project\basic\last revision\multiple delegate with Return type\obj\Debug\multiple delegate with Return type.exe
+C:\c#b22\add project\basic\last revision\multiple delegate with Return type\obj\Debug\multiple delegate with Return type.pdb

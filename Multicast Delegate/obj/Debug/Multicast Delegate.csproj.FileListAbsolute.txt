@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\Multicast Delegate\bin\Debug\Multicast Delegate.exe.config
+C:\c#b22\add project\basic\last revision\Multicast Delegate\bin\Debug\Multicast Delegate.exe
+C:\c#b22\add project\basic\last revision\Multicast Delegate\bin\Debug\Multicast Delegate.pdb
+C:\c#b22\add project\basic\last revision\Multicast Delegate\obj\Debug\Multicast Delegate.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\Multicast Delegate\obj\Debug\Multicast Delegate.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\Multicast Delegate\obj\Debug\Multicast Delegate.exe
+C:\c#b22\add project\basic\last revision\Multicast Delegate\obj\Debug\Multicast Delegate.pdb
