@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\gkp\string datatype\bin\Debug\string datatype.exe.config
+C:\c#b22\add project\basic\gkp\string datatype\bin\Debug\string datatype.exe
+C:\c#b22\add project\basic\gkp\string datatype\bin\Debug\string datatype.pdb
+C:\c#b22\add project\basic\gkp\string datatype\obj\Debug\string datatype.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\gkp\string datatype\obj\Debug\string datatype.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\gkp\string datatype\obj\Debug\string datatype.exe
+C:\c#b22\add project\basic\gkp\string datatype\obj\Debug\string datatype.pdb
