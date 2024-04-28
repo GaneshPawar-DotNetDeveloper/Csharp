@@ -1,0 +1,14 @@
+C:\c#b22\add project\basic\gkp\datatypes\bin\Debug\net7.0\datatypes.exe
+C:\c#b22\add project\basic\gkp\datatypes\bin\Debug\net7.0\datatypes.deps.json
+C:\c#b22\add project\basic\gkp\datatypes\bin\Debug\net7.0\datatypes.runtimeconfig.json
+C:\c#b22\add project\basic\gkp\datatypes\bin\Debug\net7.0\datatypes.dll
+C:\c#b22\add project\basic\gkp\datatypes\bin\Debug\net7.0\datatypes.pdb
+C:\c#b22\add project\basic\gkp\datatypes\obj\Debug\net7.0\datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#b22\add project\basic\gkp\datatypes\obj\Debug\net7.0\datatypes.AssemblyInfoInputs.cache
+C:\c#b22\add project\basic\gkp\datatypes\obj\Debug\net7.0\datatypes.AssemblyInfo.cs
+C:\c#b22\add project\basic\gkp\datatypes\obj\Debug\net7.0\datatypes.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\gkp\datatypes\obj\Debug\net7.0\datatypes.dll
+C:\c#b22\add project\basic\gkp\datatypes\obj\Debug\net7.0\refint\datatypes.dll
+C:\c#b22\add project\basic\gkp\datatypes\obj\Debug\net7.0\datatypes.pdb
+C:\c#b22\add project\basic\gkp\datatypes\obj\Debug\net7.0\datatypes.genruntimeconfig.cache
+C:\c#b22\add project\basic\gkp\datatypes\obj\Debug\net7.0\ref\datatypes.dll
