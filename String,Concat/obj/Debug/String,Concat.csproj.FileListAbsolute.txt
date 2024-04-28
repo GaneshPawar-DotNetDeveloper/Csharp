@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\Revision (28+11+2023)\String,Concat\bin\Debug\String,Concat.exe.config
+C:\c#b22\add project\basic\Revision (28+11+2023)\String,Concat\bin\Debug\String,Concat.exe
+C:\c#b22\add project\basic\Revision (28+11+2023)\String,Concat\bin\Debug\String,Concat.pdb
+C:\c#b22\add project\basic\Revision (28+11+2023)\String,Concat\obj\Debug\String,Concat.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\Revision (28+11+2023)\String,Concat\obj\Debug\String,Concat.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\Revision (28+11+2023)\String,Concat\obj\Debug\String,Concat.exe
+C:\c#b22\add project\basic\Revision (28+11+2023)\String,Concat\obj\Debug\String,Concat.pdb
