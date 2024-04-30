@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\9_looping statements\bin\Debug\9_looping statements.exe.config
+C:\c#b22\add project\basic\basicOfC#\9_looping statements\bin\Debug\9_looping statements.exe
+C:\c#b22\add project\basic\basicOfC#\9_looping statements\bin\Debug\9_looping statements.pdb
+C:\c#b22\add project\basic\basicOfC#\9_looping statements\obj\Debug\9_looping statements.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\9_looping statements\obj\Debug\9_looping statements.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\9_looping statements\obj\Debug\9_looping statements.exe
+C:\c#b22\add project\basic\basicOfC#\9_looping statements\obj\Debug\9_looping statements.pdb
