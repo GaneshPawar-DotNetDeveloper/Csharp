@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\5_nullable value\bin\Debug\5_nullable value.exe.config
+C:\c#b22\add project\basic\basicOfC#\5_nullable value\bin\Debug\5_nullable value.exe
+C:\c#b22\add project\basic\basicOfC#\5_nullable value\bin\Debug\5_nullable value.pdb
+C:\c#b22\add project\basic\basicOfC#\5_nullable value\obj\Debug\5_nullable value.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\5_nullable value\obj\Debug\5_nullable value.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\5_nullable value\obj\Debug\5_nullable value.exe
+C:\c#b22\add project\basic\basicOfC#\5_nullable value\obj\Debug\5_nullable value.pdb

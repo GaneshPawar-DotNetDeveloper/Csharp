@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\6_conditional statements\bin\Debug\6_conditional statements.exe.config
+C:\c#b22\add project\basic\basicOfC#\6_conditional statements\bin\Debug\6_conditional statements.exe
+C:\c#b22\add project\basic\basicOfC#\6_conditional statements\bin\Debug\6_conditional statements.pdb
+C:\c#b22\add project\basic\basicOfC#\6_conditional statements\obj\Debug\6_conditional statements.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\6_conditional statements\obj\Debug\6_conditional statements.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\6_conditional statements\obj\Debug\6_conditional statements.exe
+C:\c#b22\add project\basic\basicOfC#\6_conditional statements\obj\Debug\6_conditional statements.pdb
