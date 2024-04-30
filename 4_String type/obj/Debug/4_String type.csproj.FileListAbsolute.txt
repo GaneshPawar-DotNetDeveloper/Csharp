@@ -1,0 +1,2 @@
+C:\c#b22\add project\basic\basicOfC#\4_String type\obj\Debug\4_String type.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\4_String type\obj\Debug\4_String type.csproj.CoreCompileInputs.cache
