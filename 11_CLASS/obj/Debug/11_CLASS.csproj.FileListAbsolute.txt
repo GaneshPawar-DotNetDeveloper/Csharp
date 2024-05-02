@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\11_CLASS\bin\Debug\11_CLASS.exe.config
+C:\c#b22\add project\basic\basicOfC#\11_CLASS\bin\Debug\11_CLASS.exe
+C:\c#b22\add project\basic\basicOfC#\11_CLASS\bin\Debug\11_CLASS.pdb
+C:\c#b22\add project\basic\basicOfC#\11_CLASS\obj\Debug\11_CLASS.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\11_CLASS\obj\Debug\11_CLASS.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\11_CLASS\obj\Debug\11_CLASS.exe
+C:\c#b22\add project\basic\basicOfC#\11_CLASS\obj\Debug\11_CLASS.pdb

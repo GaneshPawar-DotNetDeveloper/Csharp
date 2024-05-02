@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\basicC#\bin\Debug\basicC#.exe.config
+C:\c#b22\add project\basic\basicOfC#\basicC#\bin\Debug\basicC#.exe
+C:\c#b22\add project\basic\basicOfC#\basicC#\bin\Debug\basicC#.pdb
+C:\c#b22\add project\basic\basicOfC#\basicC#\obj\Debug\basicC#.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\basicC#\obj\Debug\basicC#.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\basicC#\obj\Debug\basicC#.exe
+C:\c#b22\add project\basic\basicOfC#\basicC#\obj\Debug\basicC#.pdb

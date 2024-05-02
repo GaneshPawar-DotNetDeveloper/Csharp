@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\19.inheritance\bin\Debug\19.inheritance.exe.config
+C:\c#b22\add project\basic\basicOfC#\19.inheritance\bin\Debug\19.inheritance.exe
+C:\c#b22\add project\basic\basicOfC#\19.inheritance\bin\Debug\19.inheritance.pdb
+C:\c#b22\add project\basic\basicOfC#\19.inheritance\obj\Debug\19.inheritance.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\19.inheritance\obj\Debug\19.inheritance.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\19.inheritance\obj\Debug\19.inheritance.exe
+C:\c#b22\add project\basic\basicOfC#\19.inheritance\obj\Debug\19.inheritance.pdb

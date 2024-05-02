@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\18. constructor\bin\Debug\_18.constructor.exe.config
+C:\c#b22\add project\basic\basicOfC#\18. constructor\bin\Debug\_18.constructor.exe
+C:\c#b22\add project\basic\basicOfC#\18. constructor\bin\Debug\_18.constructor.pdb
+C:\c#b22\add project\basic\basicOfC#\18. constructor\obj\Debug\18. constructor.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\18. constructor\obj\Debug\18. constructor.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\18. constructor\obj\Debug\_18.constructor.exe
+C:\c#b22\add project\basic\basicOfC#\18. constructor\obj\Debug\_18.constructor.pdb
