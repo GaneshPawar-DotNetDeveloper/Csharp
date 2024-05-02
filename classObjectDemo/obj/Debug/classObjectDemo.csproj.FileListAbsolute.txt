@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\classObjectDemo\bin\Debug\classObjectDemo.exe.config
+C:\c#b22\add project\basic\basicOfC#\classObjectDemo\bin\Debug\classObjectDemo.exe
+C:\c#b22\add project\basic\basicOfC#\classObjectDemo\bin\Debug\classObjectDemo.pdb
+C:\c#b22\add project\basic\basicOfC#\classObjectDemo\obj\Debug\classObjectDemo.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\classObjectDemo\obj\Debug\classObjectDemo.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\classObjectDemo\obj\Debug\classObjectDemo.exe
+C:\c#b22\add project\basic\basicOfC#\classObjectDemo\obj\Debug\classObjectDemo.pdb
