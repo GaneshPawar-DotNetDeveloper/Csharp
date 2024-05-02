@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\class&object\bin\Debug\class&object.exe.config
+C:\c#b22\add project\basic\basicOfC#\class&object\bin\Debug\class&object.exe
+C:\c#b22\add project\basic\basicOfC#\class&object\bin\Debug\class&object.pdb
+C:\c#b22\add project\basic\basicOfC#\class&object\obj\Debug\class&object.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\class&object\obj\Debug\class&object.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\class&object\obj\Debug\class&object.exe
+C:\c#b22\add project\basic\basicOfC#\class&object\obj\Debug\class&object.pdb
