@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\method parameters\bin\Debug\method parameters.exe.config
+C:\c#b22\add project\basic\basicOfC#\method parameters\bin\Debug\method parameters.exe
+C:\c#b22\add project\basic\basicOfC#\method parameters\bin\Debug\method parameters.pdb
+C:\c#b22\add project\basic\basicOfC#\method parameters\obj\Debug\method parameters.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\method parameters\obj\Debug\method parameters.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\method parameters\obj\Debug\method parameters.exe
+C:\c#b22\add project\basic\basicOfC#\method parameters\obj\Debug\method parameters.pdb

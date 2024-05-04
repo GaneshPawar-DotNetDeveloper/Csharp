@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\datatypes\obj\Debug\datatypes.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\datatypes\obj\Debug\datatypes.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\datatypes\bin\Debug\datatypes.exe.config
+C:\c#b22\add project\basic\basicOfC#\datatypes\bin\Debug\datatypes.exe
+C:\c#b22\add project\basic\basicOfC#\datatypes\bin\Debug\datatypes.pdb
+C:\c#b22\add project\basic\basicOfC#\datatypes\obj\Debug\datatypes.exe
+C:\c#b22\add project\basic\basicOfC#\datatypes\obj\Debug\datatypes.pdb
