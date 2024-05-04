@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\Operators\bin\Debug\Operators.exe.config
+C:\c#b22\add project\basic\basicOfC#\Operators\bin\Debug\Operators.exe
+C:\c#b22\add project\basic\basicOfC#\Operators\bin\Debug\Operators.pdb
+C:\c#b22\add project\basic\basicOfC#\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\Operators\obj\Debug\Operators.exe
+C:\c#b22\add project\basic\basicOfC#\Operators\obj\Debug\Operators.pdb
