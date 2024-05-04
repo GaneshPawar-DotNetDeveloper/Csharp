@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\MethodOverriding\bin\Debug\MethodOverriding.exe.config
+C:\c#b22\add project\basic\basicOfC#\MethodOverriding\bin\Debug\MethodOverriding.exe
+C:\c#b22\add project\basic\basicOfC#\MethodOverriding\bin\Debug\MethodOverriding.pdb
+C:\c#b22\add project\basic\basicOfC#\MethodOverriding\obj\Debug\MethodOverriding.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\MethodOverriding\obj\Debug\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\MethodOverriding\obj\Debug\MethodOverriding.exe
+C:\c#b22\add project\basic\basicOfC#\MethodOverriding\obj\Debug\MethodOverriding.pdb
