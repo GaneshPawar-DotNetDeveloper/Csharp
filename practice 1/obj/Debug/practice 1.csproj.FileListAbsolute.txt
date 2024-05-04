@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\basicOfC#\practice 1\bin\Debug\practice 1.exe.config
+C:\c#b22\add project\basic\basicOfC#\practice 1\bin\Debug\practice 1.exe
+C:\c#b22\add project\basic\basicOfC#\practice 1\bin\Debug\practice 1.pdb
+C:\c#b22\add project\basic\basicOfC#\practice 1\obj\Debug\practice 1.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\basicOfC#\practice 1\obj\Debug\practice 1.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\basicOfC#\practice 1\obj\Debug\practice 1.exe
+C:\c#b22\add project\basic\basicOfC#\practice 1\obj\Debug\practice 1.pdb
