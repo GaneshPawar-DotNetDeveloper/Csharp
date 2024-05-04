@@ -4,7 +4,6 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
-using static System.Collections.Specialized.BitVector32;
 
 namespace Optional_method_parameter
 {
@@ -12,61 +11,30 @@ namespace Optional_method_parameter
     {
         static void Main(string[] args)
         {
-            // ** optional method parameter: jisko argument pass karane ki jarurat nahi he.
-            // when we don't want to pass value for a parameter mean we want that parameter will be optional
-            // means in main method we wanr run only print() method
-            // there are two optional parameters 
-            // 1. using default value:
-            //  print(); // when we don't parameter value then it get error
-            print();  // when we get parameter value as a default value then it get run
-            print(20);
-            print(30);
-            print(123, 123, 123);
-            // but we want pass value for a and c then we use named parameter:
-            print(a: 23, c: 1234); // it get b value as default value.
-            printB();
-
+            add(12, 34);
+            add(23);
+            add();
+            sub(23, 45);
+            sub(10);
+            sub();
+            sum(12,12,12);
+            //sum(12, 12);
+            sum(a: 12, c: 12);
             Console.ReadLine();
         }
-        static void print(int a = 10, int b = 20, int c = 30)
-        // optional parameter for default parameter should be last in parameter list.
-        // mean don't do that (int a=10,int b);  // it get error
-        // we do like (int a,int b= 123);
-        {
-            Console.WriteLine(a + b + c);
+        static void add(int a =27, int b=92) 
+        { 
+        Console.WriteLine($"Addition {a}+{b}= {a + b}");
+        } 
+        //2. optional atrribute parameter
+        static void sub([Optional]int a, [Optional] int b)
+        { 
+        Console.WriteLine($"Substraction : {a}-{b}={a-b}");
         }
-        // 2. using optional atrribute:
-        // it use when we don't know default value 
-        static void printB([Optional] int j, [Optional]int e, int d=2,int f=23,int g=23)
+        //3.named parameter
+        static void sum (int a,[Optional]int b,int c)
         {
-            Console.WriteLine(d+e+f+g);
-
-
-            /* ( [Optional] int k,int d=23,int z =12);
-
-             OR
-
-             (int z, [Optional] int k, int d = 23);*/
-
-            //  in first example default value should be last // so it run the code
-            // In second example we need to mention argument
-            // When we don't do that then we need that value as a optional
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            Console.WriteLine($"sum is {a}+{b}+{c}={a+b+c}");
         }
-    }
-}
+            }
+        }
