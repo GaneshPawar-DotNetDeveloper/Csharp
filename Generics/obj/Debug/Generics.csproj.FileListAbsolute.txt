@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\Generics\bin\Debug\Generics.exe.config
+C:\c#b22\add project\basic\last revision\Generics\bin\Debug\Generics.exe
+C:\c#b22\add project\basic\last revision\Generics\bin\Debug\Generics.pdb
+C:\c#b22\add project\basic\last revision\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\Generics\obj\Debug\Generics.exe
+C:\c#b22\add project\basic\last revision\Generics\obj\Debug\Generics.pdb
