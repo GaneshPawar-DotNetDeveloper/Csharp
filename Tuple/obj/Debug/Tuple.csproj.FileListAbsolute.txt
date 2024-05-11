@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\Tuple\bin\Debug\Tuple.exe.config
+C:\c#b22\add project\basic\last revision\Tuple\bin\Debug\Tuple.exe
+C:\c#b22\add project\basic\last revision\Tuple\bin\Debug\Tuple.pdb
+C:\c#b22\add project\basic\last revision\Tuple\obj\Debug\Tuple.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\Tuple\obj\Debug\Tuple.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\Tuple\obj\Debug\Tuple.exe
+C:\c#b22\add project\basic\last revision\Tuple\obj\Debug\Tuple.pdb
