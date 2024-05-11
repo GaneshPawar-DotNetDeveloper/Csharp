@@ -1,0 +1,6 @@
+C:\c#b22\add project\basic\last revision\simple class laibrary project\bin\Debug\simple class laibrary project.dll
+C:\c#b22\add project\basic\last revision\simple class laibrary project\bin\Debug\simple class laibrary project.pdb
+C:\c#b22\add project\basic\last revision\simple class laibrary project\obj\Debug\simple class laibrary project.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\simple class laibrary project\obj\Debug\simple class laibrary project.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\simple class laibrary project\obj\Debug\simple class laibrary project.dll
+C:\c#b22\add project\basic\last revision\simple class laibrary project\obj\Debug\simple class laibrary project.pdb
