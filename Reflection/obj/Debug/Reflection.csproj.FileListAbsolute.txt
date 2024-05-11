@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\Reflection\bin\Debug\Reflection.exe.config
+C:\c#b22\add project\basic\last revision\Reflection\bin\Debug\Reflection.exe
+C:\c#b22\add project\basic\last revision\Reflection\bin\Debug\Reflection.pdb
+C:\c#b22\add project\basic\last revision\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\Reflection\obj\Debug\Reflection.exe
+C:\c#b22\add project\basic\last revision\Reflection\obj\Debug\Reflection.pdb
