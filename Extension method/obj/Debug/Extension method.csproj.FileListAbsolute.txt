@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\Extension method\bin\Debug\Extension method.exe.config
+C:\c#b22\add project\basic\last revision\Extension method\bin\Debug\Extension method.exe
+C:\c#b22\add project\basic\last revision\Extension method\bin\Debug\Extension method.pdb
+C:\c#b22\add project\basic\last revision\Extension method\obj\Debug\Extension method.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\Extension method\obj\Debug\Extension method.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\Extension method\obj\Debug\Extension method.exe
+C:\c#b22\add project\basic\last revision\Extension method\obj\Debug\Extension method.pdb
