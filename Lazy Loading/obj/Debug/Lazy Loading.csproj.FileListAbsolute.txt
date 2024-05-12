@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\Lazy Loading\bin\Debug\Lazy Loading.exe.config
+C:\c#b22\add project\basic\last revision\Lazy Loading\bin\Debug\Lazy Loading.exe
+C:\c#b22\add project\basic\last revision\Lazy Loading\bin\Debug\Lazy Loading.pdb
+C:\c#b22\add project\basic\last revision\Lazy Loading\obj\Debug\Lazy Loading.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\Lazy Loading\obj\Debug\Lazy Loading.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\Lazy Loading\obj\Debug\Lazy Loading.exe
+C:\c#b22\add project\basic\last revision\Lazy Loading\obj\Debug\Lazy Loading.pdb
