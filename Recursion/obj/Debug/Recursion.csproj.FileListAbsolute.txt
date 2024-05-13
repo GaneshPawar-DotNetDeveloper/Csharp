@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\Recursion\bin\Debug\Recursion.exe.config
+C:\c#b22\add project\basic\last revision\Recursion\bin\Debug\Recursion.exe
+C:\c#b22\add project\basic\last revision\Recursion\bin\Debug\Recursion.pdb
+C:\c#b22\add project\basic\last revision\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\Recursion\obj\Debug\Recursion.exe
+C:\c#b22\add project\basic\last revision\Recursion\obj\Debug\Recursion.pdb
