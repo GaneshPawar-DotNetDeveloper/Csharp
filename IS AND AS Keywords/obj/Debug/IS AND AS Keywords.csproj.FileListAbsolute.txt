@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\IS AND AS Keywords\bin\Debug\IS AND AS Keywords.exe.config
+C:\c#b22\add project\basic\last revision\IS AND AS Keywords\bin\Debug\IS AND AS Keywords.exe
+C:\c#b22\add project\basic\last revision\IS AND AS Keywords\bin\Debug\IS AND AS Keywords.pdb
+C:\c#b22\add project\basic\last revision\IS AND AS Keywords\obj\Debug\IS AND AS Keywords.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\IS AND AS Keywords\obj\Debug\IS AND AS Keywords.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\IS AND AS Keywords\obj\Debug\IS AND AS Keywords.exe
+C:\c#b22\add project\basic\last revision\IS AND AS Keywords\obj\Debug\IS AND AS Keywords.pdb
