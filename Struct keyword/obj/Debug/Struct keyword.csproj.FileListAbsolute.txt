@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\Struct keyword\bin\Debug\Struct keyword.exe.config
+C:\c#b22\add project\basic\last revision\Struct keyword\bin\Debug\Struct keyword.exe
+C:\c#b22\add project\basic\last revision\Struct keyword\bin\Debug\Struct keyword.pdb
+C:\c#b22\add project\basic\last revision\Struct keyword\obj\Debug\Struct keyword.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\Struct keyword\obj\Debug\Struct keyword.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\Struct keyword\obj\Debug\Struct keyword.exe
+C:\c#b22\add project\basic\last revision\Struct keyword\obj\Debug\Struct keyword.pdb
