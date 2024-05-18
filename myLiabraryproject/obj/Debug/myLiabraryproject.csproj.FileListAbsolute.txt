@@ -1,0 +1,6 @@
+C:\c#b22\add project\basic\last revision\myLiabraryproject\bin\Debug\myLiabraryproject.dll
+C:\c#b22\add project\basic\last revision\myLiabraryproject\bin\Debug\myLiabraryproject.pdb
+C:\c#b22\add project\basic\last revision\myLiabraryproject\obj\Debug\myLiabraryproject.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\myLiabraryproject\obj\Debug\myLiabraryproject.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\myLiabraryproject\obj\Debug\myLiabraryproject.dll
+C:\c#b22\add project\basic\last revision\myLiabraryproject\obj\Debug\myLiabraryproject.pdb

@@ -1,0 +1,10 @@
+C:\c#b22\add project\basic\last revision\myClient\bin\Debug\myClient.exe.config
+C:\c#b22\add project\basic\last revision\myClient\bin\Debug\myClient.exe
+C:\c#b22\add project\basic\last revision\myClient\bin\Debug\myClient.pdb
+C:\c#b22\add project\basic\last revision\myClient\bin\Debug\myLiabraryproject.dll
+C:\c#b22\add project\basic\last revision\myClient\bin\Debug\myLiabraryproject.pdb
+C:\c#b22\add project\basic\last revision\myClient\obj\Debug\myClient.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\myClient\obj\Debug\myClient.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\myClient\obj\Debug\myClient.csproj.CopyComplete
+C:\c#b22\add project\basic\last revision\myClient\obj\Debug\myClient.exe
+C:\c#b22\add project\basic\last revision\myClient\obj\Debug\myClient.pdb
